@@ -32,4 +32,4 @@ while True:
     elif operador == '*':
         print(num_1_float * num_2_float)
     else:
-        print('O Código nunca deve chegar aqui.')
+        print('O Código não pode chegar aqui.')
